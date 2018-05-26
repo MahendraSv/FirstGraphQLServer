@@ -13,3 +13,4 @@ First GraphQL Server with express, node
 3. Move to cloned folder
 4. Install pacakges `git install`
 5. Run the project `npm start`
+6. Use `http://localhost:8080/graphql` to open the GraphQL editor in the browser.
